@@ -1,0 +1,1 @@
+ SQL - storing, manipulating and retrieving data in databases.
