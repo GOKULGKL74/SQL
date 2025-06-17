@@ -1,1 +1,16 @@
  SQL - storing, manipulating and retrieving data in databases.
+Standard -ASCII/ISO
+
+Table -colllection of data in rows nd columns
+Fields - table broken upto similar entities
+
+column -vertical
+row/record
+
+..
+Distinct - unique values
+sort by -ascending by default ,desending use DESC
+NULL -FIELD with no value
+
+Aggregate function:
+  Min Max Count Sum Avg
