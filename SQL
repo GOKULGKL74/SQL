@@ -11,6 +11,10 @@ row/record
 Distinct - unique values
 sort by -ascending by default ,desending use DESC
 NULL -FIELD with no value
+Case -its like swtch statemnt
+union- combine 2/more select statemnt without duplicates*
+union All -combine 2 r more selct statement with** duplicate
+stored procedure -pre compiled set f sql statemnt -take input -perfrm logic ndgv output
 
 Aggregate function:
   Min Max Count Sum Avg
