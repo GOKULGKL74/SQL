@@ -14,7 +14,28 @@ NULL -FIELD with no value
 Case -its like swtch statemnt
 union- combine 2/more select statemnt without duplicates*
 union All -combine 2 r more selct statement with** duplicate
-stored procedure -pre compiled set f sql statemnt -take input -perfrm logic ndgv output
+stored procedure -pre compiled set sql statemnt -take input -perfrm logic ndgv output
+scaler function -operate on single value nd results single output
+   // len,round
+NVL nd NVL2 
+ NVL- replace  Null value with given value
+ NVL2 - takes 2 args 
+       if 1st args is NOT NULL -return  2nd argumnet
+       if 1st args is Null -return 3rd argumnt
+Rank - asign same numb to tied rows nd leave gaps for subsequent rnk
+row numb-asign number to each row
+index -obj created to speed up  data retrivel
+temprory tables- exist only duration of session 
+seequence -genrates series of unique numeric  values
+local temp table- prefix with # ,exixts within session
+global temp table  -prefix with ##,visible all session
+merge statemnt-combine multiple operation  like insert del
+
+to remov duplicates?
+ distinct ,group by,row number
+
+ACID -atomiccity,consistency,isolation,durability
+deadlock- 2 r more tranaction hold resouces 
 
 Aggregate function:
   Min Max Count Sum Avg
